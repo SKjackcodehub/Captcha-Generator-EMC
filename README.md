@@ -27,4 +27,4 @@ index.html: The main HTML file that contains the structure of the web page.
 style.css: The CSS file that contains the styles for the web page.
 script.js: The JavaScript file that contains the functionality for generating and validating the captcha.
 
-Link: 
+Link: https://skjackcodehub.github.io/Captcha-Generator-EMC/
